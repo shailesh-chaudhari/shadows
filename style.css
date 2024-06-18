@@ -1,0 +1,39 @@
+nav{
+    background-color: brown;
+    padding: 14px;
+   box-shadow: 2px 2px 8px greenyellow;
+}
+#logo{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    cursor: pointer;
+}
+.menu-item{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 24px;
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+    top: 6px;
+    float: right;
+}
+.text-shadow{
+    text-shadow: 2px 2px red;
+}
+
+.text-shadow-blur{
+    text-shadow: 2px 2px 10px red;
+}
+
+.multiple-text-shadow{
+    text-shadow: 2px 3px 2px red,2px 6px 2px green;
+}
+.box-shadow{
+    width: 300px;
+    height: 300px;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 2px 2px 10px red;
+}
